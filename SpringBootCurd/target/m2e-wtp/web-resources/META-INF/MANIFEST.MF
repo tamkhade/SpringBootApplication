@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: App3
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tamkhade
+Implementation-Vendor-Id: com.aits
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot_M
+ VC_CRUD_OPS/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
