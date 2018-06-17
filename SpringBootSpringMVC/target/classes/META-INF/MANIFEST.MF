@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootSpringMVC
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tamkhade
+Implementation-Vendor-Id: com.java4s
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootSpringMVC
+Created-By: Maven Integration for Eclipse
+
